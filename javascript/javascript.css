@@ -1,4 +1,4 @@
-.onmouseonver {
+.eventsMouseOverAndOut {
    width: 500px;
 }
 
@@ -17,6 +17,25 @@
    width: 30px;
 }
 
-.clearOne {
+.clearLeft {
    clear: left;
+}
+
+.eventMouseMove {
+   width: 550px;
+   height: 150px;
+   border:1px solid red;
+}
+
+.justLeft {
+   float: left;
+}
+
+.validations {
+   width: 180px;
+}
+
+.validation {
+   float: left;
+   width: 90px;
 }

@@ -24,7 +24,7 @@
 .eventMouseMove {
    width: 550px;
    height: 150px;
-   border:1px solid red;
+   border:1px solid black;
 }
 
 .justLeft {

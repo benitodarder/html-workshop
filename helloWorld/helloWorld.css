@@ -6,3 +6,29 @@ h2 {
   color: red;
   text-align: center;
 }
+
+.sideBySide {
+   width: 500px;
+}
+
+.leftOne {
+   float: left; 
+   width: 200px;
+   color: red;
+}
+
+.centerOne {
+   float: left; 
+   width: 100px;
+   color: green;
+}
+
+.rightOne {
+   float: left; 
+   width: 200px;
+   color: blue;
+}
+
+.clearOne {
+   clear: left;
+}

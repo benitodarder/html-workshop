@@ -1,0 +1,22 @@
+.onmouseonver {
+   width: 500px;
+}
+
+.leftOne {
+   float: left; 
+   width: 130px;
+}
+
+.centerOne {
+   float: left; 
+   width: 30px;
+}
+
+.rightOne {
+   float: left; 
+   width: 30px;
+}
+
+.clearOne {
+   clear: left;
+}

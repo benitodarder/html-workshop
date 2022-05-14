@@ -14,6 +14,7 @@ function whenLoad() {
    document.getElementById("isMouseUp").style.visibility =  "hidden";
    document.getElementById("mouseX").innerHTML  =  "N/A";
    document.getElementById("mouseY").innerHTML  =  "N/A";    
+   alert("A onload even have been catch!");
 }
 
 function whenMouseDown() {

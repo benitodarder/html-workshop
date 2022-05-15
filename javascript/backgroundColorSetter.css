@@ -1,0 +1,8 @@
+.aligned {
+   vertical-align: middle
+}
+
+.inputArea div {
+    display:flex;
+    align-items:center;
+}
